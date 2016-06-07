@@ -1,0 +1,4 @@
+2016-06-07
+ * forked from SHT1x, improved support for SHT-31-LS device for
+ *   davis weather stations
+ 
